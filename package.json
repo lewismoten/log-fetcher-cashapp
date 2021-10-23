@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lewismoten/log-fetcher-cashapp/issues"
   },
-  "homepage": "https://github.com/lewismoten/log-fetcher-cashapp#readme"
+  "homepage": "https://github.com/lewismoten/log-fetcher-cashapp#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
 }
