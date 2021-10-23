@@ -1,0 +1,19 @@
+{
+  "name": "log-fetcher-cashapp",
+  "version": "1.0.0",
+  "description": "log-fetcher-cashapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/log-fetcher-cashapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewismoten/log-fetcher-cashapp/issues"
+  },
+  "homepage": "https://github.com/lewismoten/log-fetcher-cashapp#readme"
+}
