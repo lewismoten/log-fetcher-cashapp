@@ -1,3 +1,5 @@
+![log-fetcher-cashapp: Stub that pulls payment logs as CSV](docs/images/social-preview.png)
+
 # log-fetcher-cashapp
 
 Pull logs from Cash App.
